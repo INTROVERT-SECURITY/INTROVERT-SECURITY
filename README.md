@@ -2,7 +2,7 @@
 <h3 align="center">A passionate UI/UX DESIGNER</h3>
 
 <p align="left">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad212118-b71d-408b-b411-bea0b0c29f0d/dhnn9fd-3e35b539-1957-479a-9d5c-b50c6c09085c.jpg/v1/fit/w_736,h_335,q_70,strp/final_naruto_x_boruto_ultimate_ninja_storm__by_renacars_dhnn9fd-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzM1IiwicGF0aCI6IlwvZlwvYWQyMTIxMTgtYjcxZC00MDhiLWI0MTEtYmVhMGIwYzI5ZjBkXC9kaG5uOWZkLTNlMzViNTM5LTE5NTctNDc5YS05ZDVjLWI1MGM2YzA5MDg1Yy5qcGciLCJ3aWR0aCI6Ijw9NzM2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._R7A3p45Y-pDLmGKf5aPlEXLG8ZY9O2HYJST-bPLsvg" width="100%" height="500" style="border-radius: 20px">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ad212118-b71d-408b-b411-bea0b0c29f0d/dhnn9fd-3e35b539-1957-479a-9d5c-b50c6c09085c.jpg/v1/fit/w_736,h_335,q_70,strp/final_naruto_x_boruto_ultimate_ninja_storm__by_renacars_dhnn9fd-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzM1IiwicGF0aCI6IlwvZlwvYWQyMTIxMTgtYjcxZC00MDhiLWI0MTEtYmVhMGIwYzI5ZjBkXC9kaG5uOWZkLTNlMzViNTM5LTE5NTctNDc5YS05ZDVjLWI1MGM2YzA5MDg1Yy5qcGciLCJ3aWR0aCI6Ijw9NzM2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._R7A3p45Y-pDLmGKf5aPlEXLG8ZY9O2HYJST-bPLsvg" width="100%" height="300">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
