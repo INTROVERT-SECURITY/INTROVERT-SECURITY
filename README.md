@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levinsuiux&show_icons=true&locale=en" alt="levinsuiux" /></p>
 
-<img src="https://pbs.twimg.com/media/GNzE26YXEAA3oZv?format=jpg&name=small" alt="boruto nanashi twitter image">
+<img src="https://pbs.twimg.com/media/GNzE26YXEAA3oZv?format=jpg&name=small" alt="boruto nanashi twitter image" width="100%">
