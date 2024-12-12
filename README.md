@@ -2,6 +2,7 @@
 <h3 align="center">A passionate UI/UX DESIGNER</h3>
 
 <p align="left">
+  <img src="https://pbs.twimg.com/media/F_ZOgpZaQAANBNB?format=jpg&name=large" width="500" height="500">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -10,4 +11,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=levinsuiux&show_icons=true&locale=en&layout=compact" alt="levinsuiux" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levinsuiux&show_icons=true&locale=en" alt="levinsuiux" /></p>
-<img src="https://pbs.twimg.com/media/F_ZOgpZaQAANBNB?format=jpg&name=large" width="100" height="100">
