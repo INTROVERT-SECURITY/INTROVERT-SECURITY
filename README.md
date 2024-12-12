@@ -2,7 +2,7 @@
 <h3 align="center">A passionate UI/UX DESIGNER</h3>
 
 <p align="left">
-  <img src="https://pbs.twimg.com/media/F_ZOgpZaQAANBNB?format=jpg&name=large" width="500" height="500">
+  <img src="[https://pbs.twimg.com/media/F_ZOgpZaQAANBNB?format=jpg&name=large](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f3b1a0bd-f594-49d4-8af1-aa6ddbe3f47f/dgzm77o-13138c42-be52-43f0-b469-c027b04f228c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YzYjFhMGJkLWY1OTQtNDlkNC04YWYxLWFhNmRkYmUzZjQ3ZlwvZGd6bTc3by0xMzEzOGM0Mi1iZTUyLTQzZjAtYjQ2OS1jMDI3YjA0ZjIyOGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lV3Wp69XB5K5w0PsyqnBghb0snlnRSfVxrWBEkMpzCM)" width="500" height="500">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
