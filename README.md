@@ -2,7 +2,7 @@
 <h3 align="center">A passionate UI/UX DESIGNER</h3>
 
 <p align="left">
-  <img src="https://pbs.twimg.com/media/GNzE26YXEAA3oZv?format=jpg&name=small" alt="boruto nanashi twitter image" width="100%">
+  <img src="https://pbs.twimg.com/media/GNzE26YXEAA3oZv?format=jpg&name=small" alt="boruto nanashi twitter image" width="100%" height="300">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
